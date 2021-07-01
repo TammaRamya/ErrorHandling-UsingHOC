@@ -1,5 +1,4 @@
 import React from 'react'
-//import ErrorBoundary from './HocCode'
 import Hero from './Component'
 class Main extends React.Component{
 render(){
